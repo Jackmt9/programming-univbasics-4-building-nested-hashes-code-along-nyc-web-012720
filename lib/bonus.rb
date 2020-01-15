@@ -19,7 +19,7 @@ def bonus
       ]
    }
   }
-binding.pry
+# binding.pry
   #code your solution here:
   # epic_tragedy[0][2][2] = "dead"
   # epic_tragedy[1][2][2] = "dead"
